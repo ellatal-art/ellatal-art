@@ -5,7 +5,7 @@
 💻 Passionate about learning, coding, and creating projects that combine creativity with technology.  
 
 🦄 *Stay tuned — my journey has just begun...*##
-
+[![Instagram](https://img.shields.io/badge/-000000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=8A2BE2)]([https://www.instagram.com/your_username](https://www.instagram.com/ella_tal_art?igsh=MWt1M3g0M2NrY3JuMg%3D%3D&utm_source=qr))
 <!--
 **ellatal-art/ellatal-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
