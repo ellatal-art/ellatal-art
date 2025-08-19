@@ -4,9 +4,13 @@
 🫟 From the world of Art to the world of programming — I’m a creative person exploring new ways of building and expressing ideas.  
 💻 Passionate about learning, coding, and creating projects that combine creativity with technology.  
 
-🦄 *Stay tuned — my journey has just begun...*##
-[![Instagram](https://img.shields.io/badge/-000000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=8A2BE2)]([https://www.instagram.com/your_username](https://www.instagram.com/ella_tal_art?igsh=MWt1M3g0M2NrY3JuMg%3D%3D&utm_source=qr))
-<!--
+🦄 *Stay tuned — my journey has just begun...
+<p align="center">
+  <a href="https://www.instagram.com/ella_tal_art?igsh=MWt1M3g0M2NrY3JuMg%3D%3D&utm_source=qr![Uploading image.png…]()
+" target="_blank">
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=8A2BE2" alt="Instagram Badge"/>
+  </a>
+</p>
 **ellatal-art/ellatal-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
