@@ -1,4 +1,10 @@
-## Hi there 👋
+# 🙋🏻‍♀️ Hi, I’m Ella  
+
+👩🏻‍🎓 I’m currently studying **Full-Stack Development** at the Developers Institute Bootcamp.  
+🫟 From the world of Art to the world of programming — I’m a creative person exploring new ways of building and expressing ideas.  
+💻 Passionate about learning, coding, and creating projects that combine creativity with technology.  
+
+🦄 *Stay tuned — my journey has just begun...*##
 
 <!--
 **ellatal-art/ellatal-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
