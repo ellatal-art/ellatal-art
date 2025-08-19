@@ -6,7 +6,8 @@
 
 🦄 **Stay tuned** — my journey has just begun...
 <p align="center">
-  <a href="[https://www.instagram.com/ella_tal_art](https://www.instagram.com/ella_tal_art?igsh=MWt1M3g0M2NrY3JuMg%3D%3D&utm_source=qr)" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40" height="40" alt="Instagram"/>
+  <a href="https://www.instagram.com/ella_tal_art?igsh=MWt1M3g0M2NrY3JuMg%3D%3D&utm_source=qr" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/8A2BE2/instagram-new.png" 
+         width="40" height="40" alt="Instagram"/>
   </a>
 </p>
