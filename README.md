@@ -7,7 +7,11 @@
 🦄 **Stay tuned** — my journey has just begun...
 <p align="center">
   <a href="https://www.instagram.com/ella_tal_art?igsh=MWt1M3g0M2NrY3JuMg%3D%3D&utm_source=qr" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/8A2BE2/instagram-new.png" 
-         width="40" height="40" alt="Instagram"/>
+    <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+      <!-- Фиолетовый круг -->
+      <circle cx="25" cy="25" r="22" fill="#8A2BE2"/>
+      <!-- Чёрный маленький кружок -->
+      <circle cx="25" cy="25" r="6" fill="#000000"/>
+    </svg>
   </a>
 </p>
